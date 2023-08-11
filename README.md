@@ -54,8 +54,6 @@ Once the relevant information is extracted using regex, the script compiles this
 Prior to automation, the manual data entry process took approximately 20 to 30 minutes to review and update the delivery orders. With the implementation of the automated Python script, this task can now be completed within just 5 minutes. The accuracy of the extracted information reduces the risk of errors that could occur during manual data entry.
 
 
-
-
 ## Limitations
 The accuracy of text extraction depends on the quality and consistency of the input PDFs.
 Complex PDF layouts or non-standard fonts may affect the effectiveness of text extraction.
@@ -70,3 +68,6 @@ Complex PDF layouts or non-standard fonts may affect the effectiveness of text e
 
 ## Conclusion:
 The "Automated Delivery Updates" Python project revolutionizes the way delivery information is processed and updated within the system. By eliminating manual data entry, the project maximizes efficiency, minimizes errors, and empowers users to focus on more value-added tasks. The documentation provides a clear overview of the project's workflow, benefits, and its positive impact on daily operations.
+
+Code : 
+[Screenshots\LSG-Project.pdf]
