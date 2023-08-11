@@ -25,6 +25,7 @@ Below is a screenshot of a manifest sent by LSG to BCPPL Admin in PDF format.
 ### Downloading PDF Files:
 The first step involves downloading all the PDF files received from LSG into a designated "data" folder. These PDF files contain delivery manifests with important details such as sales purchase order numbers, store names, addresses, and box quantities.
 
+*Importing Required Python Packages*
 ![Alt text](<Code Snippets/Import_Packages.png>)
 ### PDF Merging:
 The Python script employs the "pdfmerger" library to merge all the individual PDF files into a single consolidated PDF file. This simplifies the subsequent text extraction process.
@@ -61,9 +62,11 @@ Complex PDF layouts or non-standard fonts may affect the effectiveness of text e
 
 ## Benefits
 
-Significant time savings: Reduces the delivery updates process from 20-30 minutes to 5 minutes.
-Enhanced accuracy: Automation eliminates the possibility of human errors during data entry.
-Streamlined workflow: The project simplifies the entire process from PDF merging to CSV export.
-Scalability: The script can handle a growing number of PDF files efficiently.
-Conclusion:
+- **Significant time savings**: Reduces the delivery updates process from 20-30 minutes to 5 minutes.
+- **Enhanced accuracy**: Automation eliminates the possibility of human errors during data entry.
+- **Streamlined workflow**: The project simplifies the entire process from PDF merging to CSV export.
+- **Scalability**: The script can handle a growing number of PDF files efficiently.
+
+
+## Conclusion:
 The "Automated Delivery Updates" Python project revolutionizes the way delivery information is processed and updated within the system. By eliminating manual data entry, the project maximizes efficiency, minimizes errors, and empowers users to focus on more value-added tasks. The documentation provides a clear overview of the project's workflow, benefits, and its positive impact on daily operations.
