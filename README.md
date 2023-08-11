@@ -7,16 +7,16 @@ The "Automated Delivery Manifests" Python project streamlines the process of ext
 This will reduce the time taken to update the online delivery dockets by 70% and minimizing data entry errors.
 
 ## Features
-PDF Merging: The script takes any number of separate PDF delivery manifests as input and merges them into a single PDF file. This consolidated file makes it easier to data extraction in the next stage.
+**PDF Merging**: The script takes any number of separate PDF delivery manifests as input and merges them into a single PDF file. This consolidated file makes it easier to data extraction in the next stage.
 
-Text Extraction: After merging the PDFs, the script employs regular expressions to extract specific text and number patterns from the pages. This extracted text contains valuable information related to deliveries, such as Purchase Orders and Quantity of items/packages to deliver.
+**Text Extraction**: After merging the PDFs, the script employs regular expressions to extract specific text and number patterns from the pages. This extracted text contains valuable information related to deliveries, such as Purchase Orders and Quantity of items/packages to deliver.
 
-- LSG sends 10 to 12 PDF files to me via email daily
-- Handling all files and opening them one by one and checks   quantity updates is a timlely task.
+- LSG sends daily 10 to 12 PDF files via email to the BCPPL Admin
+- Handling all files and opening them one by one and checks quantity updates is a timlely task.
 - So, I have come up with this easy solution to extract every purchase order and total quantity from each delivery and exporting data to a csv file.
-- Then, I could use the csv file to update the system.
+- Then, Admin can use the csv file to update the system accordingly.
 
-Below is a screenshot of a manifest sent to me in PDF format.
+Below is a screenshot of a manifest sent by LSG to BCPPL Admin in PDF format.
 
 ![Alt text](Screenshots/PDF-data-to-extract.png)
 
