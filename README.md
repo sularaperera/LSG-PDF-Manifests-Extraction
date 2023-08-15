@@ -63,6 +63,11 @@ Complex PDF layouts or non-standard fonts may affect the effectiveness of text e
 - **Streamlined workflow**: The project simplifies the entire process from PDF merging to CSV export.
 - **Scalability**: The script can handle a growing number of PDF files efficiently.
 
+<br>
+
+A screenshot of data exported as a csv file
+![Alt text](Screenshots/exported_csv.png)
+
 
 ## Conclusion:
 The "Automated Delivery Updates" Python project revolutionizes the way delivery information is processed and updated within the system. By eliminating manual data entry, the project maximizes efficiency, minimizes errors, and empowers users to focus on more value-added tasks. The documentation provides a clear overview of the project's workflow, benefits, and its positive impact on daily operations.
