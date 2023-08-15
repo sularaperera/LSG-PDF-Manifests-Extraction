@@ -1,6 +1,4 @@
-﻿# PDF Delivery Manifests Merging and Text Extraction
-
-
+﻿![Alt text](images/Banner.png)
 ## Introduction
 The "Automated Delivery Manifests" Python project streamlines the process of extracting essential delivery information from multiple PDF files received from LSG, a leading sandwich manufacturer in New Zealand. The project aims to enhance efficiency by reducing the time spent on manual data entry, allowing quick updates to the system with accurate delivery details.
 
